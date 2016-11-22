@@ -1,0 +1,57 @@
+BODY {
+	FONT-FAMILY: Arial, Tahoma, Verdana
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Tahoma, Verdana
+}
+A {
+	COLOR: #4a4a28
+}
+.headerDate {
+	FONT-SIZE: 9pt; FONT-STYLE: italic; TEXT-DECORATION: underline
+}
+A.menulink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menulink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #9c9a7b; TEXT-DECORATION: none
+}
+A.menulinkSelected {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #9c9a7b; TEXT-DECORATION: none
+}
+.pageHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: Serif, sans-serif, Arial, Helvetica
+}
+.input {
+	BORDER-RIGHT: #b5b2b5 1px solid; BORDER-TOP: #b5b2b5 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #b5b2b5 1px solid; COLOR: #000000; BORDER-BOTTOM: #b5b2b5 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ffffff
+}
+.textInput {
+	BORDER-RIGHT: #b5b2b5 1px solid; BORDER-TOP: #b5b2b5 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #b5b2b5 1px solid; COLOR: #000000; BORDER-BOTTOM: #b5b2b5 1px solid; FONT-FAMILY: sans-serif, Verdana; BACKGROUND-COLOR: #ffffff
+}
+.button {
+	BORDER-RIGHT: #336699 1px solid; FONT-SIZE: 8pt; CURSOR: hand; COLOR: #000000; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Verdana
+}
+.minititle {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Tahoma, Verdana
+}
+.smalltitle {
+	FONT-SIZE: 8pt; COLOR: #ff0000; FONT-FAMILY: Tahoma, Verdana
+}
+.galleryImageTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Verdana
+}
+.gallerySectionTitleSmall {
+	FONT-SIZE: 8pt; COLOR: #4e4e28; FONT-FAMILY: Tahoma, Verdana; TEXT-DECORATION: underline
+}
+.gallerySectionTitleSmallBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #4e4e28; FONT-FAMILY: Tahoma, Verdana; TEXT-DECORATION: underline
+}
+.eventMainHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #cc0033; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.news {
+	 FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial
+}
